@@ -1,0 +1,275 @@
+Om (or Aum) (listen (help·info); Sanskrit: ॐ, ओम्, romanized: Ōṃ) is the sound of a sacred spiritual symbol in Indic religions. The meaning and connotations of Om vary between the diverse schools within and across the various traditions. It is part of the iconography found in ancient and medieval era manuscripts, temples, monasteries, and spiritual retreats in Hinduism, Buddhism, Jainism, and Sikhism.[1][2] As a syllable, it is often chanted either independently or before a spiritual recitation and during meditation in Hinduism, Buddhism, and Jainism.
+
+In Hinduism, wherein it signifies the essence of the Ultimate Reality (parabrahman) which is consciousness (paramatman), Om is one of the most important spiritual symbols. It refers to Atman (Self within) and Brahman (ultimate reality, entirety of the universe, truth, divine, supreme spirit, cosmic principles, knowledge). The syllable is often found at the beginning and the end of chapters in the Vedas, the Upanishads, and other Hindu texts. It is a sacred spiritual incantation made before and during the recitation of spiritual texts, during puja and private prayers, in ceremonies of rites of passage (sanskara) such as weddings, and during meditative and spiritual activities such as Pranava yoga.
+
+The syllable Om is also referred to as Onkara/Omkara and Pranav/Pranava among many other names.
+
+The syllable Om is referred to by many names, including:
+
+The etymological origins of ōm/āum have long been discussed and disputed, with even the Upanishads having proposed multiple Sanskrit etymologies for āum, including: from "ām" (आम्; "yes"), from "ávam" (आवम्; "that, thus, yes"), and from the Sanskrit roots "āv-" (अव्; "to urge") or "āp-" (आप्; "to attain").[A] In 1889, Maurice Blumfield proposed an origin from a Proto-Indo-European introductory particle "*au" with a function similar to the Sanskrit particle "atha" (अथ). However, contemporary Indologist Asko Parpola proposes a borrowing from Dravidian "*ām" meaning "'it is so', 'let it be so', 'yes'", a contraction of "*ākum", cognate with modern Tamil "ām" (ஆம்) meaning "yes".
+
+Regardless of its original meaning, the syllable Om evolves to mean many abstract ideas even in the earliest Upanishads. Max Müller and other scholars state that these philosophical texts recommend Om as a "tool for meditation", explain various meanings that the syllable may be in the mind of one meditating, ranging from "artificial and senseless" to "highest concepts such as the cause of the Universe, essence of life, Brahman, Atman, and Self-knowledge".
+
+The syllable Om is first mentioned in the Upanishads, the mystical texts associated with the Vedanta philosophy. It has variously been associated with concepts of  "cosmic sound" or "mystical syllable" or "affirmation to something divine", or as symbolism for abstract spiritual concepts in the Upanishads. In the Aranyaka and the Brahmana layers of Vedic texts, the syllable is so widespread and linked to knowledge, that it stands for the "whole of Veda". The symbolic foundations of Om are repeatedly discussed in the oldest layers of the early Upanishads. The Aitareya Brahmana of Rig Veda, in section 5.32, for example suggests that the three phonetic components of Om (a + u + m) correspond to the three stages of cosmic creation, and when it is read or said, it celebrates the creative powers of the universe. The Brahmana layer of Vedic texts equate Om with bhur-bhuvah-svah, the latter symbolising "the whole Veda". They offer various shades of meaning to Om, such as it being "the universe beyond the sun", or that which is "mysterious and inexhaustible", or "the infinite language, the infinite knowledge", or "essence of breath, life, everything that exists", or that "with which one is liberated". The Samaveda, the poetical Veda, orthographically maps Om to the audible, the musical truths in its numerous variations (Oum, Aum, Ovā Ovā Ovā Um, etc.) and then attempts to extract musical meters from it.
+
+When occurring within spoken Classical Sanskrit, the syllable is subject to the normal rules of sandhi in Sanskrit grammar, with the additional peculiarity that the initial o of "Om" is the guṇa vowel grade of u, not the vṛddhi grade, and is therefore pronounced as a monophthong with a long vowel ([oː]), ie. ōm not aum.[B] Furthermore, the final m is often assimilated into the preceding vowel as nasalisation (raṅga). As a result, Om is regularly pronounced [õː] in the context of Sanskrit.
+
+However, this o reflects the older Vedic Sanskrit diphthong au, which at that stage in the language's history had not yet monophthongised to o. This being so, the syllable Om is often archaically considered as consisting of three phonemes: "a-u-m". Accordingly, some denominations maintain the archaic diphthong au viewing it to be more authentic and closer to the language of the Vedas.
+
+In the context of the Vedas, particularly the Vedic Brahmanas, the vowel is often pluta ("three times as long"), indicating a length of three morae (trimātra), that is, the time it takes to say three light syllables. Additionally, a diphthong becomes pluta with the prolongation of its first vowel. When e and o undergo pluti they typically revert to the original diphthongs with the initial a prolonged, realised as an overlong open back unrounded vowel (ā̄um or a3um [ɑːːum]). This extended duration is emphasised by denominations who regard it as more authentically Vedic, such as Arya Samaj.
+
+However, Om is also attested in the Upanishads without pluta,[C] and many languages related to or influenced by Classical Sanskrit, such as Hindustani, share its pronunciation of Om ([õː] or [oːm]).
+
+Nagari or Devanagari representations are found epigraphically on sculpture dating from Medieval India and on ancient coins in regional scripts throughout South Asia. Om is represented in Devanagari as ओम्, composed of four elements: the vowel letter आ (ā), the vowel diacritic  े (u), the consonant letter म (m), and the virama stroke ् which indicates the absence of an implied final vowel. The syllable is sometimes written ओ३म्, notably by Arya Samaj, where ३ (i.e., the digit "3") explicitly indicates pluta ("three times as long"; see above) which is otherwise only implied. For this same reason Om may also be written ओऽम् in languages such as Hindi, with the avagraha (ऽ) being used to indicate prolonging the vowel sound. (However, this differs from the usage of the avagraha in Sanskrit, where it would instead indicate the prodelision of the initial vowel.) Om may also be written ओं, with an anusvāra reflecting the pronunciation of [õː] in languages such as Hindi. In languages such as Urdu and Sindhi Om may be written اوم‎ in Arabic script, although speakers of these languages may also use Devanagari representations.
+
+The commonly seen representation of the syllable Om, ॐ, is a cursive ligature in Devanagari, combining अ (a) with उ (u) and the chandrabindu (ँ, ṃ). In Unicode, the symbol is encoded at U+0950 ॐ DEVANAGARI OM and at U+1F549 🕉 OM SYMBOL as a "generic symbol independent of Devanagari font".
+
+In some South Asian writing systems, the Om symbol has been simplified further. In Eastern Nagari Om is written simply as ওঁ without an additional curl. In languages such as Bengali differences in pronunciation compared to Sanskrit have made the addition of a curl for u redundant. Although the spelling is simpler, the pronunciation remains [õː]. Similarly, in Odia Om is written as ଓଁ without an additional diacritic.
+
+In Tamil, Om is written as ௐ, a ligature of ஓ (ō) and ம் (m), while in Kannada, Telugu, and Malayalam, Om is written simply as the letter for ō followed by anusvāra (ಓಂ, ఓం, and ഓം, respectively).
+
+There have been proposals that the Om syllable may already have had written representations in Brahmi script, dating to before the Common Era. A proposal by Deb (1921) held that the swastika is a monogrammatic representation of the syllable Om, wherein two Brahmi /o/ characters (U+11011 𑀑 BRAHMI LETTER O) were superposed crosswise and the 'm' was represented by dot. A commentary in Nature (1922) considers this theory questionable and unproven. A. B. Walawalkar (1951) proposed that Om was represented using the Brahmi symbols for "A", "U", and "M" (𑀅𑀉𑀫), and that this may have influenced the unusual epigraphical features of the symbol ॐ for Om. Parker (1909) wrote that an "Aum monogram", distinct from the swastika, is found among Tamil-Brahmi inscriptions in Sri Lanka, including Anuradhapura era coins, dated from the 1st to 4th centuries CE, which are embossed with Om along with other symbols.
+
+The Om symbol, with epigraphical variations, is also found in many Southeast Asian countries.
+
+In Southeast Asia, the Om symbol is widely conflated with that of the unalome; originally a representation of the Buddha's urna curl and later a symbol of the path to nirvana, it is a popular yantra in Southest Asia, particularly in Cambodia and Thailand. It frequently appears in sak yant religious tattoos, and has been a part of various flags and official emblems such as in the Thong Chom Klao of King Rama IV (r. 1851–1868) and the present-day royal arms of Cambodia.
+
+The Khmer adopted the symbol since the 1st century during the Kingdom of Funan, where it is also seen on artefacts from Angkor Borei, once the capital of Funan. The symbol is seen on numerous Khmer statues from Chenla to Khmer Empire periods and still in used until the present day.[better source needed]
+
+In Chinese characters, Om is typically transliterated as either 唵 (pinyin: ǎn) or 嗡 (pinyin: wēng).
+
+Devanagari ligature,[a] Gujarati[b]
+
+Devanagari[c] (see above for variants)
+
+Eastern Nagari (Assamese, Bengali)[d]
+
+Gurmukhi[e], Ik Onkar
+
+Gurmukhi cursive variant, Ik Onkar
+
+Jain symbol[f]
+
+Lepcha[g]
+
+Limbu[h]
+
+Meitei Mayek, Anji symbol[i]
+
+Modi[j]
+
+Odia[k]
+
+Odia cursive variant[l]
+
+Prachalit[m]
+
+Ranjana
+
+Sharada[n]
+
+Siddham[o]
+
+Soyombo[p]
+
+Takri[q]
+
+Tibetan[r]
+
+Tirhuta, Mithilakshar[s]
+
+Balinese[t]
+
+Burmese[u]
+
+Chakma[v]
+
+Cham[w]
+
+Cham homkar symbol[x]
+
+Grantha[y]
+
+Javanese[z]
+
+Kannada[aa]
+
+Khmer[ab]
+
+Khmer Aom, Unalaom, or Komutr symbol[ac]
+
+Lao[ad]
+
+Malayalam[ae]
+
+Sinhala[af]
+
+Tamil[ag]
+
+Telugu[ah]
+
+Thai[ai]
+
+Thai Om, Unalome, or Khomut symbol[aj]
+
+Chinese[ak]
+
+Hangul[al]
+
+Katakana[am]
+
+Mongolian[an]
+
+Thaana[ao]
+
+Warang Citi[ap]
+
+In Hinduism, Om is one of the most important spiritual sounds. The syllable is often found at the beginning and the end of chapters in the Vedas, the Upanishads, and other Hindu texts, and is often chanted either independently or before a mantra, as a sacred spiritual incantation made before and during the recitation of spiritual texts, during puja and private prayers, in ceremonies of rites of passages (sanskara) such as weddings, and during meditative and spiritual activities such as yoga.
+
+It is the most sacred syllable symbol and mantra of Brahman, which is the ultimate reality, consciousness or Atman (Self within).
+
+It is called the Shabda Brahman (Brahman as sound) and believed to be the primordial sound (Pranava) of the universe.
+
+Om came to be used as a standard utterance at the beginning of mantras, chants or citations taken from the Vedas. For example, the Gayatri mantra, which consists of a verse from the Rigveda Samhita (RV 3.62.10), is prefixed not just by Om but by Om followed by the formula bhūr bhuvaḥ svaḥ. Such recitations continue to be in use in Hinduism, with many major incantations and ceremonial functions beginning and ending with Om.
+
+The Aitareya Brahmana (7.18.13) explains Om as "an acknowledgment, melodic confirmation, something that gives momentum and energy to a hymn".
+
+Om is the agreement (pratigara) with a hymn. Likewise is tathā = 'so be it' [the agreement] with a [worldly] song (gāthā) [= the applause]. But Om is something divine, and tathā is something human.
+
+The Chandogya Upanishad is one of the oldest Upanishads of Hinduism. It opens with the recommendation that "let a man meditate on Om". It calls the syllable Om as udgitha (उद्गीथ; song, chant), and asserts that the significance of the syllable is thus: the essence of all beings is earth, the essence of earth is water, the essence of water are the plants, the essence of plants is man, the essence of man is speech, the essence of speech is the Rigveda, the essence of the Rigveda is the Samaveda, and the essence of Samaveda is the udgitha (song, Om).
+
+Ṛc (ऋच्) is speech, states the text, and sāman (सामन्) is breath; they are pairs, and because they have love for each other, speech and breath find themselves together and mate to produce a song. The highest song is Om, asserts section 1.1 of Chandogya Upanishad. It is the symbol of awe, of reverence, of threefold knowledge because Adhvaryu invokes it, the Hotr recites it, and Udgatr sings it.
+
+The second volume of the first chapter continues its discussion of syllable Om, explaining its use as a struggle between Devas (gods) and Asuras (demons). Max Muller states that this struggle between gods and demons is considered allegorical by ancient Indian scholars, as good and evil inclinations within man, respectively. The legend in section 1.2 of Chandogya Upanishad states that gods took the Udgitha (song of Om) unto themselves, thinking, "with this song we shall overcome the demons". The syllable Om is thus implied as that which inspires the good inclinations within each person.
+
+Chandogya Upanishad's exposition of syllable Om in its opening chapter combines etymological speculations, symbolism, metric structure and philosophical themes. In the second chapter of the Chandogya Upanishad, the meaning and significance of Om evolves into a philosophical discourse, such as in section 2.10 where Om is linked to the Highest Self, and section 2.23 where the text asserts Om is the essence of three forms of knowledge, Om is Brahman and "Om is all this [observed world]".
+
+The Katha Upanishad is the legendary story of a little boy, Nachiketa, the son of sage Vājaśravasa, who meets Yama, the Vedic deity of death. Their conversation evolves to a discussion of the nature of man, knowledge, Atman (Self) and moksha (liberation). In section 1.2, Katha Upanishad characterises knowledge (vidyā) as the pursuit of the good, and ignorance (avidyā) as the pursuit of the pleasant. It teaches that the essence of the Veda is to make man liberated and free, look past what has happened and what has not happened, free from the past and the future, beyond good and evil, and one word for this essence is the word Om.
+
+The word which all the Vedas proclaim,
+That which is expressed in every Tapas (penance, austerity, meditation),
+That for which they live the life of a Brahmacharin,
+Understand that word in its essence: Om! that is the word.
+Yes, this syllable is Brahman,
+This syllable is the highest.
+He who knows that syllable,
+Whatever he desires, is his.
+
+The Maitrayaniya Upanishad in sixth Prapathakas (lesson) discusses the meaning and significance of Om. The text asserts that Om represents Brahman-Atman. The three roots of the syllable, states the Maitri Upanishad, are A + U + M.
+
+The sound is the body of Self, and it repeatedly manifests in three:
+
+Brahman exists in two forms – the material form, and the immaterial formless. The material form is changing, unreal. The immaterial formless isn't changing, real. The immortal formless is truth, the truth is the Brahman, the Brahman is the light, the light is the Sun which is the syllable Om as the Self.[I]
+
+The world is Om, its light is Sun, and the Sun is also the light of the syllable Om, asserts the Upanishad. Meditating on Om, is acknowledging and meditating on the Brahman-Atman (Self).
+
+The Mundaka Upanishad in the second Mundakam (part), suggests the means to knowing the Atman and the Brahman are meditation, self-reflection, and introspection and that they can be aided by the symbol Om.
+
+That which is flaming, which is subtler than the subtle,
+on which the worlds are set, and their inhabitants –
+That is the indestructible Brahman.[J]
+It is life, it is speech, it is mind. That is the real. It is immortal.
+It is a mark to be penetrated. Penetrate It, my friend.
+
+Taking as a bow the great weapon of the Upanishad,
+one should put upon it an arrow sharpened by meditation,
+Stretching it with a thought directed to the essence of That,
+Penetrate[K] that Imperishable as the mark, my friend.
+
+Om is the bow, the arrow is the Self, Brahman the mark,
+By the undistracted man is It to be penetrated,
+One should come to be in It,
+as the arrow becomes one with the mark.
+
+Adi Shankara, in his review of the Mundaka Upanishad, states Om as a symbolism for Atman (Self).
+
+The Mandukya Upanishad opens by declaring, "Om!, this syllable is this whole world". Thereafter, it presents various explanations and theories on what it means and signifies. This discussion is built on a structure of "four fourths" or "fourfold", derived from A + U + M + "silence" (or without an element).
+
+The Shvetashvatara Upanishad, in verses 1.14 to 1.16, suggests meditating with the help of syllable Om, where one's perishable body is like one fuel-stick and the syllable Om is the second fuel-stick, which with discipline and diligent rubbing of the sticks unleashes the concealed fire of thought and awareness within. Such knowledge, asserts the Upanishad, is the goal of Upanishads. The text asserts that Om is a tool of meditation empowering one to know the God within oneself, to realize one's Atman (Self).
+
+The Ganapati Upanishad asserts that Ganesha is same as Brahma, Vishnu, Shiva, all deities, the universe, and Om.
+
+(O Lord Ganapati!) You are (the Trimurti) Brahma, Vishnu, and Mahesa. You are Indra. You are fire [Agni] and air [Vāyu]. You are the sun [Sūrya] and the moon [Chandrama]. You are Brahman. You are (the three worlds) Bhuloka [earth], Antariksha-loka [space], and Swargaloka [heaven]. You are Om. (That is to say, You are all this).
+
+In Valmiki's Ramayana, Rama is identified with Om, with Brahma saying to Rama:
+
+"You are the sacrificial performance. You are the sacred syllable Vashat (on hearing which the Adhvaryu priest casts the oblation to a deity into the sacrificial fire). You are the mystic syllable OM. You are higher than the highest. People neither know your end nor your origin nor who you are in reality. You appear in all created beings in the cattle and in brahmanas. You exist in all quarters, in the sky, in mountains and in rivers."
+The Bhagavad Gita, in the Epic Mahabharata, mentions the meaning and significance of Om in several verses. According to Jeaneane Fowler, verse 9.17 of the Bhagavad Gita synthesizes the competing dualistic and monist streams of thought in Hinduism, by using "Om which is the symbol for the indescribable, impersonal Brahman".
+
+"Of this universe, I am the Father; I am also the Mother, the Sustainer, and the Grandsire. I am the purifier, the goal of knowledge, the sacred syllable Om. I am the Ṛig Veda, Sāma Veda, and the Yajur Veda."
+
+The significance of the sacred syllable in the Hindu traditions, is similarly highlighted in other verses of the Gita, such as verse 17.24 where the importance of Om during prayers, charity and meditative practices is explained as follows:
+
+"Therefore, uttering Om, the acts of yagna (fire ritual), dāna (charity) and tapas (austerity) as enjoined in the scriptures, are always begun by those who study the Brahman."
+
+The medieval era texts of Hinduism, such as the Puranas adopt and expand the concept of Om in their own ways, and to their own theistic sects.
+
+The Vaishnava Garuda Purana equates the recitation of Om with obeisance to Vishnu. According to the Vayu Purana, Om is the representation of the Hindu Trimurti, and represents the union of the three gods, viz. A for Brahma, U for Vishnu and M for Shiva.[citation needed] The Bhagavata Purana (9.14.46-48) identifies the Pranava as the root of all Vedic mantras, and describes the combined letters of a-u-m as an invocation of seminal birth, initiation, and the performance of sacrifice (yajña).
+
+In Shaiva traditions, the Shiva Purana highlights the relation between deity Shiva and the Pranava or Om. Shiva is declared to be Om, and that Om is Shiva.
+
+In the thealogy of Shakta traditions, Om connotes the female divine energy, Adi Parashakti, represented in the Tridevi: A for the creative energy (the Shakti of Brahma), Mahasaraswati, U for the preservative energy (the Shakti of Vishnu), Mahalakshmi, and M for the destructive energy (the Shakti of Shiva), Mahakali. The 12th book of the Devi-Bhagavata Purana describes the Goddess as the mother of the Vedas, the Adya Shakti (primal energy, primordial power), and the essence of the Gayatri mantra.
+
+The aphoristic verse 1.27 of Pantanjali's Yogasutra links Om to Yoga practice, as follows:
+
+तस्य वाचकः प्रणवः ॥२७॥
+His word is Om.
+
+Johnston states this verse highlights the importance of Om in the meditative practice of yoga, where it symbolises the three worlds in the Self; the three times – past, present, and future eternity; the three divine powers – creation, preservation, and transformation in one Being; and three essences in one Spirit – immortality, omniscience, and joy. It is, asserts Johnston, a symbol for the perfected Spiritual Man.
+
+In Krishnava traditions, Krishna is revered as Svayam Bhagavan, the Supreme Lord himself, and Om is interpreted in light of this. According to the Chaitanya Charitamrita, Om is the sound representation of the Supreme Lord. A is said to represent Bhagavan Krishna (Vishnu), U represents Srimati Radharani (Mahalakshmi), and M represents jiva, the Self of the devotee.
+
+In Jainism, Om is considered a condensed form of reference to the Pañca-Parameṣṭhi by their initials A+A+A+U+M (o3m).
+
+The Dravyasamgraha quotes a Prakrit line:
+
+ओम एकाक्षर पञ्चपरमेष्ठिनामादिपम् तत्कथमिति चेत अरिहंता असरीरा आयरिया तह उवज्झाया मुणियां
+Oma ekākṣara pañca-parameṣṭhi-nāmā-dipam tatkathamiti cheta "arihatā asarīrā āyariyā taha uvajjhāyā muṇiyā".
+AAAUM [or just "Om"] is the one syllable short form of the initials of the five supreme beings [pañca-parameṣṭhi]: "Arihant, Ashiri, Acharya, Upajjhaya, Muni".
+
+By extension, the Om symbol is also used in Jainism to represent the first five lines of the Namokar mantra, the most important part of the daily prayer in the Jain religion, which honours the Pañca-Parameṣṭhi. These five lines are (in English): "(1.) veneration to the Arhats, (2.) veneration to the perfect ones, (3.) veneration to the masters, (4.) veneration to the teachers, (5.) veneration to all the monks in the world".
+
+Om is often used in some later schools of Buddhism, for example Tibetan Buddhism, which was influenced by Indian Hinduism and Tantra.
+
+In East Asian Buddhism, Om is often transliterated as the Chinese character 唵 (pinyin ǎn) or 嗡 (pinyin wēng).
+
+In Tibetan Buddhism, Om is often placed at the beginning of mantras and dharanis. Probably the most well known mantra is "Om mani padme hum", the six syllable mantra of the Bodhisattva of compassion, Avalokiteśvara. This mantra is particularly associated with the four-armed Ṣaḍākṣarī form of Avalokiteśvara. Moreover, as a seed syllable (Bīja mantra), Om is considered sacred and holy in Esoteric Buddhism.
+
+Some scholars interpret the first word of the mantra oṃ maṇi padme hūṃ to be auṃ, with a meaning similar to Hinduism – the totality of sound, existence, and consciousness.
+
+Oṃ has been described by the 14th Dalai Lama as "composed of three pure letters, A, U, and M. These symbolize the impure body, speech, and mind of everyday unenlightened life of a practitioner; they also symbolize the pure exalted body, speech and mind of an enlightened Buddha". According to Simpkins, Om is a part of many mantras in Tibetan Buddhism and is a symbolism for wholeness, perfection, and the infinite.
+
+The term A-un (阿吽) is the transliteration in Japanese of the two syllables "a" and "hūṃ", written in Devanagari as अहूँ. In Japanese, it is often conflated with the syllable Om. The original Sanskrit term is composed of two letters, the first (अ) and the last (ह) letters of the Devanagari abugida, with diacritics (including anusvara) on the latter indicating the "-ūṃ" of "hūṃ". Together, they symbolically represent the beginning and the end of all things. In Japanese Mikkyō Buddhism, the letters represent the beginning and the end of the universe.  This is comparable to Alpha and Omega, the first and last letters of the Greek alphabet, similarly adopted by Christianity to symbolise Christ as the beginning and end of all.
+
+The term a-un is used figuratively in some Japanese expressions as "a-un breathing" (阿吽の呼吸, a-un no kokyū) or "a-un relationship" (阿吽の仲, a-un no naka), indicating an inherently harmonious relationship or nonverbal communication.
+
+The term is also used in Buddhist architecture and Shinto to describe the paired statues common in Japanese religious settings, most notably the Niō (仁王) and the komainu (狛犬). One (usually on the right) has an open mouth regarded by Buddhists as symbolically speaking the "A" syllable; the other (usually on the left) has a closed mouth, symbolically speaking the "Un" syllable. The two together are regarded as saying "A-un". The general name for statues with an open mouth is agyō (阿形, lit. "a" shape), that for those with a closed mouth ungyō (吽形, lit. "'un' shape").
+
+Niō statues in Japan, and their equivalent in East Asia, appear in pairs in front of Buddhist temple gates and stupas, in the form of two fierce looking guardian kings (Vajrapani).
+
+Komainu, also called lion-dogs, found in Japan, Korea and China, also occur in pairs before Buddhist temples and public spaces, and again, one has an open mouth (Agyō), the other closed (Ungyō).
+
+An ungyō komainu
+
+An agyō komainu
+
+Ungyō Niō at the Central Gate of Hōryū-ji
+
+Agyō Niō at the Central Gate of Hōryū-ji
+
+Ik Onkar (Punjabi: ਇੱਕ ਓਅੰਕਾਰ; iconically represented as ੴ) are the first words of the Mul Mantar, which is the opening verse of the Guru Granth Sahib, the Sikh scripture. Combining the numeral one ("Ik") and "Onkar", Ik Onkar literally means "one Om " ; [L] these words are a statement that there is "one God", understood to refer to the "absolute monotheistic unity of God" and implying "singularity in spite of the seeming multiplicity of existence".[M]
+
+According to Pashaura Singh, Onkar is used frequently as invocation in Sikh scripture; it is the foundational word (shabad), the seed of Sikh scripture, and the basis of the "whole creation of time and space".
+
+Ik Onkar is a significant name of God in the Guru Granth Sahib and Gurbani, states Kohli, and occurs as "Aum" in the Upanishads and where it is understood as the abstract representation of three worlds (Trailokya) of creation.[N] According to Wazir Singh, Onkar is a "variation of Om (Aum) of the ancient Indian scriptures (with a change in its orthography), implying the unifying seed-force that evolves as the universe". However, in Sikhism, Onkar is interpreted differently than in other Indian religions; Onkar refers directly to the creator of ultimate reality and consciousness, and not to the creation. Guru Nanak wrote a poem entitled Onkar in which, states Doniger, he "attributed the origin and sense of speech to the Divinity, who is thus the Om-maker".
+
+Onkar ('the Primal Sound') created Brahma, Onkar fashioned the consciousness,
+From Onkar came mountains and ages, Onkar produced the Vedas,
+By the grace of Onkar, people were saved through the divine word,
+By the grace of Onkar, they were liberated through the teachings of the Guru.
+
+For both symbolic and numerological reasons, Aleister Crowley adapted aum into a Thelemic magical formula, AUMGN, adding a silent 'g' (as in the word 'gnosis') and a nasal 'n' to the m to form the compound letter 'MGN'; the 'g' makes explicit the silence previously only implied by the terminal 'm' while the 'n' indicates nasal vocalisation connoting the breath of life and together they connote knowledge and generation. Together these letters, MGN, have a numerological value of 93, a number with polysemic significance in Thelema. Om appears in this extended form throughout Crowley's magical and philosophical writings, notably appearing in the Gnostic Mass. Crowley discusses its symbolism briefly in section F of Liber Samekh and in detail in chapter 7 of Magick (Book 4).
+
+The Brahmic script Om-ligature has become widely recognized in Western counterculture since the 1960s, mostly in its standard Devanagari form (ॐ), but the Tibetan alphabet Om (ༀ) has also gained limited currency in popular culture.
+
+Meditating and chanting of Om can be done by first concentrating on a picture of Om and then effortlessly mentally chanting the mantra. Meditating and mental chanting have been said[by whom?] to improve the physiological state of the person by increasing alertness and sensory sensitivity.[unreliable source?]
